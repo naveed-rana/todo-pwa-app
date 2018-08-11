@@ -1,0 +1,11 @@
+.imgdemo{
+    margin-top: 30vh;
+    margin-left: 35vw;
+}
+table{
+    padding: 10px;
+    
+}
+table,th,td{
+border: 1px solid rosybrown;
+}
